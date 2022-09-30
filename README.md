@@ -1,1 +1,1 @@
-# -manav-kasa-uygulama
+# manav-kasa-uygulama
